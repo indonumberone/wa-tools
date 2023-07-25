@@ -1,3 +1,5 @@
+script from salismazaya
+
 Program Untuk mengetahui Kontak Yang Belum Kita Save Di Whatsapp 
 jadi manusia nggak boleh sombong bro
 
